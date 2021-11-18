@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Bienvenus sur cette page de référentiels, propulser par 'GitHub Pages'.
 
-You can use the [editor on GitHub](https://github.com/Acidburn0zzz/SparkyLinux/edit/DACworks/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez utiliser le [editeur web de GitHub](https://github.com/Acidburn0zzz/SparkyLinux/edit/DACworks/docs/index.md) 
+pour maintenir et prévisualiser le contenu de votre site Web dans des fichiers Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chaque fois que vous ouvrirez une page de ce référentiel, les pages GitHub demandées seront regénérées à la volée,
+ceçi pour correspondre et etres rendues aux mieux en fonctions du navigateur qui set en cours d'usage et celà prends aussi en compte la machine qui éffectues la requéte vers vos pages.
+
+GitHub Pages with Jekyll [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de votre site, 
+à partir du contenu de vos fichiers Markdown. 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mais qu'est ce que Markdown ? 
+Markdown est une methode de typographie redactionelle, qui utilise (soit disant) une syntaxe 'légère' et 'facile' à utiliser.
+Qui à été tellement popularisée qu'elle est devenue de nos jours un prérequis pour styliser des documents, des pageweb, un blogs,
+un WiKi, ou n'importes le quelle des "('So Cool New')" frameworks qui nous envahisent dans la continuation des webpack, react, redux, groovy, dart, fluter, ...
+
+Il comprend des conventions pour
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +36,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Pour en savoir bien plus et en détails >> C'est ICI << [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Acidburn0zzz/SparkyLinux/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Votre Pages de site ou de blog, 
+le thémes et les styles de mises en page suiveront ce que vous aurez definis dans le fichier `_config.yml`,
+ce fichier `_config.yml`de votre configuration de Jekyll pour GitHub Pages que vous avez sélectionné dans votre dossiers.
+Dossier de configuration en liens avec GitHub Pages pour Jekyll [repository settings](https://github.com/Acidburn0zzz/SparkyLinux/settings/pages). 
 
-### Support or Contact
+Le nom de ce thème est enregistré dans le fichier de configuration Jekyll.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Jekyll Documentation [documentation](https://docs.github.com/categories/github-pages-basics/) 
